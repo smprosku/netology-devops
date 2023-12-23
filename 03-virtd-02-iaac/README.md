@@ -19,9 +19,10 @@
 
 #### Задача 3
 
-![](img/host-release.png)
+
 ![](img/cloud-vm.png)
 ![](img/cloud-vm-brief.png)
+![](img/host-release.png)
 ![](img/virtualbox-help.png)
 ![](img/add_vag_env.png)
 ![](img/docker-version.png)
